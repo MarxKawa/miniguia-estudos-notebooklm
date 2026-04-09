@@ -44,7 +44,7 @@ Resposta Obtida: Sim, ele foi inspirado pelo modelo de crédito rural alemão de
 .
 
 --------------------------------------------------------------------------------
-Miniguia de Estudo (Entrega Final)
+Miniguia de Estudo
 1. Resumos Estruturados do Assunto
 A Chegada e o Diagnóstico: Quando chegou ao Rio Grande do Sul em 1885, o padre Amstad percebeu que as colônias germânicas precisavam muito mais do que assistência espiritual; elas sofriam com a falta de crédito, ação de agiotas, precariedade na saúde e estagnação econômica
 .
