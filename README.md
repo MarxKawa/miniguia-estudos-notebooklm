@@ -15,11 +15,11 @@ Este é um teste de estudos feito no NotebookLM, usei a história do padre Theod
 
 Para este caderno temático no NotebookLM, foram utilizadas transcrições de vídeos e textos de sites institucionais abertos:
 
-1. [050 - Legados do Padre Theodor Amstad](INSERIR_LINK_YOUTUBE) – Canal Marcio Port e o Cooperativismo Financeiro.
-2. [051 - A História do Padre Theodor Amstad](INSERIR_LINK_YOUTUBE) – Canal Marcio Port e o Cooperativismo Financeiro.
-3. [A história do padre Theodor Amstad: o patrono do cooperativismo](INSERIR_LINK_YOUTUBE) – Canal MundoCoop.
-4. [PADRE THEODOR AMSTAD - O PATRONO DO COOPERATIVISMO BRASILEIRO](INSERIR_LINK_YOUTUBE) – Canal Caminhos da História.
-5. [Conheça o Pioneiro Padre Theodor Amstad](INSERIR_LINK_ARTIGO) – Portal Sicredi Institucional.
+1. [050 - Legados do Padre Theodor Amstad](https://www.youtube.com/watch?v=AH34WgdzycQ) – Canal Marcio Port e o Cooperativismo Financeiro.
+2. [051 - A História do Padre Theodor Amstad](https://www.youtube.com/watch?v=3pvZaz2_l28) – Canal Marcio Port e o Cooperativismo Financeiro.
+3. [A história do padre Theodor Amstad: o patrono do cooperativismo](https://www.youtube.com/watch?v=ejQ4q-SbTvw) – Canal MundoCoop.
+4. [PADRE THEODOR AMSTAD - O PATRONO DO COOPERATIVISMO BRASILEIRO](https://www.youtube.com/watch?v=wUI4UKLCY14) – Canal Caminhos da História.
+5. [Conheça o Pioneiro Padre Theodor Amstad](https://www.sicredi.com.br/site/trajetoria/nossos-conteudos/conheca-o-pioneiro-padre-theodor-amstad/) – Portal Sicredi Institucional.
 6. [Conheça a história do Pe. Theodor Amstad e seu legado para o cooperativismo](https://somoscooperativismo-rs.coop.br/noticias-negocios/conheca-a-historia-do-pe-theodor-amstad-e-seu-legado-para-o-cooperativismo-3726) – Ocergs.
 
 *(Lembre-se de substituir os campos `INSERIR_LINK` pelas URLs originais dos vídeos e artigos correspondentes).*
